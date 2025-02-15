@@ -1,7 +1,7 @@
 import { useState } from "react";
-import hotel from "C:\\Users\\starr\\OneDrive\\Documents\\Desktop\\Hotel Website\\my-project\\src\\assets\\hotel.jpg";
-import safari from "C:\\Users\\starr\\OneDrive\\Documents\\Desktop\\Hotel Website\\my-project\\src\\assets\\safari.jpg";
-import palace from "C:\\Users\\starr\\OneDrive\\Documents\\Desktop\\Hotel Website\\my-project\\src\\assets\\palace.jpg";
+import hotel from '../assets/hotel.jpg';
+import safari from "../assets/safari.jpg";
+import palace from "../assets/palace.jpg";
 import { MdNavigateNext, MdNavigateBefore } from "react-icons/md";
 
 function Explore() {

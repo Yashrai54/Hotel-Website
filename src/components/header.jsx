@@ -1,6 +1,6 @@
 import { FaChevronDown } from "react-icons/fa";
 import { RiArrowUpWideFill } from "react-icons/ri";
-import video from "C:\\Users\\starr\\OneDrive\\Documents\\Desktop\\Hotel Website\\my-project\\src\\assets\\hotel.mp4";
+import video from "../assets/hotel.mp4";
 import { useState } from 'react';
 
 function Header() {

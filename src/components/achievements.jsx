@@ -1,5 +1,5 @@
 
-import hotel from "C:\\Users\\starr\\OneDrive\\Documents\\Desktop\\Hotel Website\\my-project\\src\\assets\\hotel.jpg";
+import hotel from "../assets/hotel.jpg";
 
 function Achievements() {
     return (

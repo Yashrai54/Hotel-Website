@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import pass from "C:\\Users\\starr\\OneDrive\\Documents\\Desktop\\Hotel Website\\my-project\\src\\assets\\pass.jpg";
-import epicure from "C:\\Users\\starr\\OneDrive\\Documents\\Desktop\\Hotel Website\\my-project\\src\\assets\\epicure.jpg";
-import wedding from "C:\\Users\\starr\\OneDrive\\Documents\\Desktop\\Hotel Website\\my-project\\src\\assets\\wedding.jpg";
-import voyage from "C:\\Users\\starr\\OneDrive\\Documents\\Desktop\\Hotel Website\\my-project\\src\\assets\\voyage.jpg";
+import pass from "../assets/pass.jpg";
+import epicure from "../assets/epicure.jpg";
+import wedding from "../assets/wedding.jpg";
+import voyage from "../assets/voyage.jpg";
 import { MdNavigateNext, MdNavigateBefore } from "react-icons/md";
 
 function Exclusive() {
